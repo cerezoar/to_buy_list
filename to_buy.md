@@ -1,1 +1,3 @@
 - [ ] Electrical plug for the extension plug replacement.
+- [ ] Buy additional souviner at snr.
+- [ ] 
