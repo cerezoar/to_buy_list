@@ -1,0 +1,1 @@
+- [ ] Electrical plug for the extension plug replacement.
